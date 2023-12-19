@@ -3,8 +3,9 @@
   <br>
   <h1>Cookie-Cats</h1>
   <p>Cookie-Cats（或 CookieCats）是一个基于 ESP8266 开发的简约智能的校园网自动化认证工具。支持所有品牌的路由器，积极为各高校提供校园网认证服务。</p>
-  <p>欢迎加入 Cookie-Cats 团队为您的高校提供校园网自动化认证支持！</p>
 </div>
+
+[![Join the chat](https://badges.gitter.im/repo.svg)](https://matrix.to/#/#cookie-cats:gitter.im)
 
 ## 组织导览
 
@@ -66,4 +67,5 @@
 | 日期 | 用户名 | 金额 | 方式 | 留言 |
 | ---- | ------ | ---- | ---- | ---- |
 |      |        |      |      |      |
+
 
