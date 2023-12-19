@@ -1,0 +1,89 @@
+{
+  "projectName": ".github",
+  "projectOwner": "Cookie-Cats",
+  "files": [
+    "profile/README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "Metaphorme",
+      "name": "Diazepam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102651183?v=4",
+      "profile": "http://diazepam.cc",
+      "contributions": [
+        "projectManagement",
+        "code",
+        "doc",
+        "design",
+        "financial",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "ytawm",
+      "name": "TimeCrystal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93414494?v=4",
+      "profile": "https://github.com/ytawm",
+      "contributions": [
+        "projectManagement",
+        "code",
+        "design",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "hfdem",
+      "name": "hfdem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47923741?v=4",
+      "profile": "https://www.hfdem.net",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "lucienshawls",
+      "name": "Lucien Shaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82591976?v=4",
+      "profile": "https://www.hwpo.top",
+      "contributions": [
+        "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "LenaASu",
+      "name": "Lena",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114927472?v=4",
+      "profile": "https://github.com/LenaASu",
+      "contributions": [
+        "design",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "MartinLingYi",
+      "name": "MartinLingYi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144036350?v=4",
+      "profile": "https://github.com/MartinLingYi",
+      "contributions": [
+        "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "kurtleee",
+      "name": "Kurt Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59387051?v=4",
+      "profile": "http://www.linkedin.com/in/xilongxu",
+      "contributions": [
+        "research",
+        "userTesting"
+      ]
+    }
+  ]
+}
